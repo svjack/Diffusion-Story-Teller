@@ -1,0 +1,17 @@
+torch
+numpy
+opencv-python-headless
+Pillow
+
+tensorflow
+tensorflow_hub
+extcolors
+
+scikit-learn>=0.24.1
+scikit-image>=0.18.1
+numba>=0.53.1
+git+https://github.com/sedthh/pyxelate.git
+
+huggingface_hub
+gradio==3.50.2
+gradio_client
