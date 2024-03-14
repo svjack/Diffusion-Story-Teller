@@ -465,4 +465,4 @@ with gr.Blocks(css=".caption-label {display:none}") as demo:
         outputs=[video_output, pix_video_output])
 
 
-demo.launch(show_api=False, share=True)
+demo.launch(show_api=False, share=False)
