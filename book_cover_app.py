@@ -461,4 +461,4 @@ with gr.Blocks(css=".caption-label {display:none}") as demo:
         label = "Example collection 2"
     )
 
-demo.launch(show_api=False, share=True)
+demo.launch(show_api=False, share=False)
