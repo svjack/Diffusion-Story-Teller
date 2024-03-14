@@ -80,8 +80,8 @@ For more compare results, you can take a look at. [videos](videos)
 ## Architecture
 The story teller can deal with the story of "Someone Do SomeThing", the LLM part complete the cause, process and result,
 and the Stable-Diffusion part draw images for them. <br/>
-* 🎥💬 Book Cover Story Teller can add book cover to the story (click from left image gallery), and all the image are transformed to the cover style.
-* 🧱 Pixel Story Teller can downsampling the image to pixel style, make the output like shot from pixel games.
+* ’🎥💬 Book Cover Story Teller‘ can add book cover to the story (click from left image gallery), and all the image are transformed to the cover style.
+* ‘🧱 Pixel Story Teller’ can downsampling the image to pixel style, make the output like shot from pixel games.
 
 <br/>
 
